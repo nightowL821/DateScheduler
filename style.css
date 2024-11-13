@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('images/1b.jpg');
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.container {
+    padding: 50px;
+}
+
+.hidden {
+    display: none;
+}
+
+input {
+    padding: 10px;
+    margin-top: 10px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 200px;
+    height: auto;
+}
